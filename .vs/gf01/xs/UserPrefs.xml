@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{293F6BE4-0429-30A0-CE0E-C20CE056F4B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/App/Scripts/Procedure/ProcedurePreload.cs">
+    <Files>
+      <File FileName="Assets/App/Scripts/Procedure/ProcedurePreload.cs" Line="204" Column="1" />
+      <File FileName="Assets/App/Scripts/Procedure/ProcedureChangeScene.cs" Line="89" Column="14" />
+      <File FileName="Assets/App/Scripts/Procedure/ProcedureLogin.cs" Line="10" Column="2" />
+      <File FileName="Assets/App/Scripts/Procedure/ProcedureMain.cs" Line="3" Column="23" />
+      <File FileName="Assets/App/Scripts/Procedure/ProcedureLaunch.cs" Line="55" Column="10" />
+      <File FileName="Assets/App/Scripts/Procedure/ProcedureCheckVersion.cs" Line="57" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yangcheng/gf01/Assets/UnityGameFramework/Prefabs/Scripts/Runtime/Localization/DefaultLocalizationHelper.cs" relfile="Assets/UnityGameFramework/Prefabs/Scripts/Runtime/Localization/DefaultLocalizationHelper.cs" line="94" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

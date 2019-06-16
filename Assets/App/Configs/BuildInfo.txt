@@ -1,0 +1,5 @@
+{
+  "GameVersion": "0.1.0",
+  "InternalGameVersion": 0,
+  "CheckVersionUrl": "http://120.78.84.15:9080/driftbottle-live/version.txt"
+}

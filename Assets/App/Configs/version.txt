@@ -1,0 +1,12 @@
+{
+"ForceGameUpdate": false,
+"LatestGameVersion": "0.1.0",
+"InternalGameVersion": 1,
+"InternalResourceVersion": 1,
+"GameUpdateUrl": "http://gameframework.cn/starforce/resources",
+"VersionListLength": 11680,
+"VersionListHashCode": -799948860,
+"VersionListZipLength": 4157,
+"VersionListZipHashCode": 1973311344,
+"END_OF_JSON": ""
+}
